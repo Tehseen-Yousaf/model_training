@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+fastapi_app/venv/
+
+# Ignore the images folder
+fastapi_app/images/
+
+# Ignore the model file
+fastapi_app/App_model.h5
+
+# Ignore the node_modules folder
+node_api/node_modules/
+
+# Ignore uploaded files
+node_api/uploads/
